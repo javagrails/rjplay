@@ -133,3 +133,10 @@ dist
 .DS_Store
 **/.DS_Store
 Thumbs.db
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
