@@ -1,2 +1,2 @@
 # rjplay
-learning reactjs
+learning onlyjs
