@@ -36,6 +36,7 @@ function createElement() {
     };
     contactList.push(contact);
     renderContacts(contactList);
+    resetFields();
     serial++;
   }
 }
