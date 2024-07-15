@@ -129,7 +129,37 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# ignore System files
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+**/Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# Mac OSX
+######################
 .DS_Store
 **/.DS_Store
-Thumbs.db
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
+
+
+
